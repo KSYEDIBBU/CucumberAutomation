@@ -7,7 +7,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 311200,
+  "duration": 517600,
   "status": "passed"
 });
 formatter.scenario({
@@ -47,43 +47,43 @@ formatter.match({
   "location": "StepDefinition.user_search_the_application()"
 });
 formatter.result({
-  "duration": 32468656500,
+  "duration": 167955227900,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.user_enter_the_valid_username_in_username_field()"
 });
 formatter.result({
-  "duration": 3619921000,
+  "duration": 4265862200,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.user_enter_the_valid_password_in_password_field()"
 });
 formatter.result({
-  "duration": 3239963800,
+  "duration": 3376674800,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.user_click_login_field()"
 });
 formatter.result({
-  "duration": 6796756200,
+  "duration": 25375329800,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.user_conform_go_to_homepage()"
 });
 formatter.result({
-  "duration": 74400,
+  "duration": 48100,
   "status": "passed"
 });
 formatter.after({
-  "duration": 507600,
+  "duration": 279700,
   "status": "passed"
 });
 formatter.before({
-  "duration": 305700,
+  "duration": 130600,
   "status": "passed"
 });
 formatter.scenario({
@@ -128,50 +128,50 @@ formatter.match({
   "location": "StepDefinition.user_navigates_to_shirt_in_women_option()"
 });
 formatter.result({
-  "duration": 8564655500,
+  "duration": 39423611600,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.user_click_on_tshirt_image_to_book()"
 });
 formatter.result({
-  "duration": 6733492100,
+  "duration": 24204832200,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.user_choose_the_quality_of_the_tshirt()"
 });
 formatter.result({
-  "duration": 49900,
+  "duration": 48100,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.user_choose_the_addchart_to_hold_the_booking()"
 });
 formatter.result({
-  "duration": 3387878000,
+  "duration": 3534469700,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.user_to_procceed_to_checkout()"
 });
 formatter.result({
-  "duration": 6753882300,
+  "duration": 43226430200,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.user_verifies_selection_of_tshirt_is_done()"
 });
 formatter.result({
-  "duration": 68200,
+  "duration": 76300,
   "status": "passed"
 });
 formatter.after({
-  "duration": 279800,
+  "duration": 385600,
   "status": "passed"
 });
 formatter.before({
-  "duration": 524400,
+  "duration": 262500,
   "status": "passed"
 });
 formatter.scenario({
@@ -216,47 +216,47 @@ formatter.match({
   "location": "StepDefinition.user_navigates_to_summary_page()"
 });
 formatter.result({
-  "duration": 6054248100,
+  "duration": 56714025600,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.user_checks_for_delivery_order_on_billing_address()"
 });
 formatter.result({
-  "duration": 7545463800,
+  "duration": 45517978500,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.user_confirm_to_book_on_agree_terms_and_conditions()"
 });
 formatter.result({
-  "duration": 9891588800,
+  "duration": 45760878000,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.user_to_proceed_for_payment()"
 });
 formatter.result({
-  "duration": 3931088500,
+  "duration": 75906978800,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.user_confirm_the_order()"
 });
 formatter.result({
-  "duration": 6193140700,
+  "duration": 44395375100,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.user_order_place_succesfully()"
 });
 formatter.result({
-  "duration": 19805700,
+  "duration": 24170700,
   "error_message": "junit.framework.ComparisonFailure: expected:\u003c[]\u003e but was:\u003c[  ]\u003e\r\n\tat junit.framework.Assert.assertEquals(Assert.java:100)\r\n\tat junit.framework.Assert.assertEquals(Assert.java:107)\r\n\tat com.automation.stepdefinition.StepDefinition.user_order_place_succesfully(StepDefinition.java:132)\r\n\tat ✽.Then user order place succesfully(src/test/java/com/automation/feature/Automation.feature:24)\r\n",
   "status": "failed"
 });
 formatter.after({
-  "duration": 124800,
+  "duration": 239000,
   "status": "passed"
 });
 });
